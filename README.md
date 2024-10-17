@@ -12,12 +12,12 @@ The repository includes a PDF with a protoype and a small file with some books.
 
 ## Usage
 
-Clone the repository to your local machine:
+Feel free to clone the repository to your local machine:
 ```bash
-git clone <repository-url>
+git clone https://github.com/aleja-ren/Library-Management-System.git
 ```
 Compile and run the Main.java file from your preferred Java development environment.
 
 ## Authors
-- Alejandra Gavino-Dias González
+- Alejandra Gavino-Dias González (alejandra.gavino-dias@estudiantes.uva.es)
 - Sara Aparicio Fernández
