@@ -1,0 +1,3 @@
+Don Quijote;libro clasico;3334;true;regular;6.0;
+El Rey Leon;libro infantil sobre leones;1234;true;bueno;5.0;
+El mago de oz;libro de fantasia;8765;false;regular;4.0;
